@@ -42,7 +42,7 @@ Our solution leverages advanced AI to translate video content into the user's pr
 4. **Setup Python and Flask backend:**
    - `cd backend`
    - `pip install -r requirements.txt`
-   - `python app.py`
+   - `python main.py`
 
 5. **Run the app:**
    - `flutter run`
