@@ -1,0 +1,6 @@
+*.mp3
+*.pyc
+.DS_Store
+*.log
+*.aac
+*.wav

@@ -1,0 +1,11 @@
+Flask
+firebase-admin
+nest-asyncio
+torch
+TTS
+librosa
+soundfile
+requests
+openai-whisper
+googletrans==3.1.0a0
+pydub
