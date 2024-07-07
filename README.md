@@ -1,7 +1,8 @@
 # Hackvok-TikTokJam24
 # 🌐 Multilingual TikTok Clone
 
-![Multilingual TikTok Clone](https://via.placeholder.com/728x90.png?text=Multilingual+TikTok+Clone+Banner)
+![image](https://github.com/aprajita27/Hackvok-TikTokJam24/assets/34093771/6d4f9181-bf9c-4725-96f7-310008655244)
+
 
 ## 📜 Overview
 Welcome to the Multilingual TikTok Clone! This project aims to break down language barriers on TikTok, enabling users to engage with diverse content regardless of the language it was originally created in. By translating videos into your preferred language and preserving the original creator's voice, tone, and pitch, we create an inclusive and seamless viewing experience.
@@ -52,15 +53,40 @@ Our solution leverages advanced AI to translate video content into the user's pr
 ## 📚 Documentation
 For detailed documentation on each component, check out the [Wiki](https://docs.google.com/document/d/1Kra3aAdZKOygQCLC9tNz8IkUq_hFBzAx2dO-9-xhPgc/edit?usp=sharing).
 
+
 ## 🖼️ Screenshots
-![Screenshot 1](https://via.placeholder.com/250x500.png?text=Screenshot+1)
-![Screenshot 2](https://via.placeholder.com/250x500.png?text=Screenshot+2)
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://github.com/aprajita27/Hackvok-TikTokJam24/assets/34093771/d8efce2d-d7e2-46b8-92c9-8397c48736e7" alt="Screenshot 1" style="width: 30%; height: auto;"/>
+    <img src="https://github.com/aprajita27/Hackvok-TikTokJam24/assets/34093771/60402f7f-76b3-4d58-b418-493ea053aa41" alt="Screenshot 1" style="width: 30%; height: auto;"/>
+    <img src="https://github.com/aprajita27/Hackvok-TikTokJam24/assets/34093771/0cdee0c9-8383-4dbc-8451-ae1feae32552" alt="Screenshot 2" style="width: 30%; height: auto;"/>
+    <img src="https://github.com/aprajita27/Hackvok-TikTokJam24/assets/34093771/2a058e3e-745d-482b-ba04-39ab78b5fdf7" alt="Screenshot 3" style="width: 30%; height: auto;"/>
+    <img src="https://github.com/aprajita27/Hackvok-TikTokJam24/assets/34093771/7ec9d444-5186-490f-b604-a56c63226e81" alt="Screenshot 4" style="width: 30%; height: auto;"/>
+    <img src="https://github.com/aprajita27/Hackvok-TikTokJam24/assets/34093771/9ec714f0-a287-4d7a-8889-84ddd818e820" alt="Screenshot 5" style="width: 30%; height: auto;"/>
+</div>
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/yourusername/multilingual-tiktok-clone/blob/main/LICENSE) file for details.
 
 ## 🌟 Acknowledgements
-- Thanks to [Flutter](https://flutter.dev/), [Firebase](https://firebase.google.com/), and [Google Cloud](https://cloud.google.com/) for their amazing tools and services.
+
+A huge thanks to the teams behind these incredible tools and services:
+
+- **[Flutter](https://flutter.dev/)**: For providing a powerful framework for building beautiful UIs.
+- **[Firebase](https://firebase.google.com/)**: For offering robust backend services and integrations.
+- **[Google Cloud](https://cloud.google.com/)**: For delivering reliable cloud computing solutions.
+
+Additionally, we would like to express our gratitude to the developers of the following libraries and packages, which have been indispensable in our project's development:
+
+- **[Flutter Packages](https://flutter.dev/docs/development/packages-and-plugins/using-packages)**: Essential UI components, state management, and Firebase integration.
+- **[Flask](https://flask.palletsprojects.com/)**: A versatile web application framework.
+- **[TensorFlow](https://www.tensorflow.org/)**: Advanced machine learning and deep learning capabilities.
+- **[torch](https://pytorch.org/)**: Comprehensive tools for machine learning and deep learning.
+- **[TTS](https://github.com/coqui-ai/TTS)**: Powerful text-to-speech functionality.
+- **[librosa](https://librosa.org/)**: Excellent audio processing tools.
+- **[openai-whisper](https://github.com/openai/whisper)**: Reliable transcription services.
+
+Thank you for your invaluable contributions to the open-source community!
 
 ## Made with ❤️ by
 [<img src="https://github.com/gayatri-p786.png?size=40" width="40">](https://github.com/gayatri-p786)
