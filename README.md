@@ -18,10 +18,14 @@ Our solution leverages advanced AI to translate video content into the user's pr
 - **Seamless Viewing Experience:** The translated audio is synchronized with the original video, providing an authentic and immersive experience.
 
 ## 🛠️ Tech Stack
-- **Frontend:** Flutter
-- **Backend:** Flask, Python
-- **Database and Storage:** Firebase
-- **APIs:** Google Cloud Speech-to-Text API, Google Cloud Translation API, Custom Voice Synthesis API
+
+| Tech          | Logo                                                                                                        |
+|---------------|-------------------------------------------------------------------------------------------------------------|
+| **Frontend**  | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)    |
+| **Backend**   | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)         |
+| **Database**  | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white) |
+| **APIs**      | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) |
+
 
 ## 🔧 Installation and Setup
 1. **Clone the repository:**
@@ -44,7 +48,7 @@ Our solution leverages advanced AI to translate video content into the user's pr
    - `flutter run`
 
 ## 📚 Documentation
-For detailed documentation on each component, check out the [Wiki](https://github.com/yourusername/multilingual-tiktok-clone/wiki).
+For detailed documentation on each component, check out the [Wiki](https://docs.google.com/document/d/1Kra3aAdZKOygQCLC9tNz8IkUq_hFBzAx2dO-9-xhPgc/edit?usp=sharing).
 
 ## 🖼️ Screenshots
 ![Screenshot 1](https://via.placeholder.com/250x500.png?text=Screenshot+1)
@@ -57,9 +61,10 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 - Thanks to [Flutter](https://flutter.dev/), [Firebase](https://firebase.google.com/), and [Google Cloud](https://cloud.google.com/) for their amazing tools and services.
 
 ## Made with ❤️ by
-- **Member 1:** [GitHub](https://github.com/member1)
-- **Member 2:** [GitHub](https://github.com/member2)
-- **Member 3:** [GitHub](https://github.com/member3)
-- **Member 4:** [GitHub](https://github.com/member4)
-- **Member 5:** [GitHub](https://github.com/member5)
+| ![Member 1](https://github.com/gayatri-p786.png?size=40) | **Member 1** | ![GitHub](https://img.shields.io/github/followers/gayatri-p786?style=social) |
+| ![Member 2](https://github.com/member2.png?size=40) | **Member 2** | ![GitHub](https://img.shields.io/github/followers/member2?style=social) |
+| ![Member 3](https://github.com/member3.png?size=40) | **Member 3** | ![GitHub](https://img.shields.io/github/followers/member3?style=social) |
+| ![Member 4](https://github.com/member4.png?size=40) | **Member 4** | ![GitHub](https://img.shields.io/github/followers/member4?style=social) |
+| ![Member 5](https://github.com/member5.png?size=40) | **Member 5** | ![GitHub](https://img.shields.io/github/followers/member5?style=social) |
+
 
