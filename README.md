@@ -58,10 +58,28 @@ For detailed documentation on each component, check out the [Wiki](https://docs.
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/yourusername/multilingual-tiktok-clone/blob/main/LICENSE) file for details.
 
 ## 🌟 Acknowledgements
-- Thanks to [Flutter](https://flutter.dev/), [Firebase](https://firebase.google.com/), and [Google Cloud](https://cloud.google.com/) for their amazing tools and services.
+
+A huge thanks to the teams behind these incredible tools and services:
+
+- **[Flutter](https://flutter.dev/)**: For providing a powerful framework for building beautiful UIs.
+- **[Firebase](https://firebase.google.com/)**: For offering robust backend services and integrations.
+- **[Google Cloud](https://cloud.google.com/)**: For delivering reliable cloud computing solutions.
+
+Additionally, we would like to express our gratitude to the developers of the following libraries and packages, which have been indispensable in our project's development:
+
+- **[Flutter Packages](https://flutter.dev/docs/development/packages-and-plugins/using-packages)**: Essential UI components, state management, and Firebase integration.
+- **[Flask](https://flask.palletsprojects.com/)**: A versatile web application framework.
+- **[TensorFlow](https://www.tensorflow.org/)**: Advanced machine learning and deep learning capabilities.
+- **[torch](https://pytorch.org/)**: Comprehensive tools for machine learning and deep learning.
+- **[TTS](https://github.com/coqui-ai/TTS)**: Powerful text-to-speech functionality.
+- **[librosa](https://librosa.org/)**: Excellent audio processing tools.
+- **[openai-whisper](https://github.com/openai/whisper)**: Reliable transcription services.
+
+Thank you for your invaluable contributions to the open-source community!
+
 
 ## Made with ❤️ by
-| ![Member 1](https://github.com/gayatri-p786.png?size=40) | **Member 1** | ![GitHub](https://img.shields.io/github/followers/gayatri-p786?style=social) |
+| ![Member 1](https://github.com/gayatri-p786.png?size=5) | **Member 1** | ![GitHub](https://img.shields.io/github/followers/gayatri-p786?style=social) |
 | ![Member 2](https://github.com/member2.png?size=40) | **Member 2** | ![GitHub](https://img.shields.io/github/followers/member2?style=social) |
 | ![Member 3](https://github.com/member3.png?size=40) | **Member 3** | ![GitHub](https://img.shields.io/github/followers/member3?style=social) |
 | ![Member 4](https://github.com/member4.png?size=40) | **Member 4** | ![GitHub](https://img.shields.io/github/followers/member4?style=social) |
