@@ -33,6 +33,7 @@ Our solution leverages advanced AI to translate video content into the user's pr
    - `cd multilingual-tiktok-clone`
 
 2. **Install Flutter dependencies:**
+   - `cd frontend`
    - `flutter pub get`
 
 3. **Setup Firebase:**
@@ -45,6 +46,7 @@ Our solution leverages advanced AI to translate video content into the user's pr
    - `python app.py`
 
 5. **Run the app:**
+   - `cd frontend`
    - `flutter run`
 
 ## 📚 Documentation
@@ -65,6 +67,6 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 [<img src="https://github.com/aprajita27.png?size=40" width="40">](https://github.com/aprajita27)
 [<img src="https://github.com/prasannasand.png?size=40" width="40">](https://github.com/prasannasand)
 [<img src="https://github.com/ncoder23.png?size=40" width="40">](https://github.com/ncoder23)
-[<img src="https://github.com/member5.png?size=40" width="40">](https://github.com/member5)
+[<img src="https://github.com/Haaarrrssshhh.png?size=40" width="40">](https://github.com/Haaarrrssshhh)
 
 
