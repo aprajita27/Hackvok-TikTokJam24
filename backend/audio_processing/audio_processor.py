@@ -240,8 +240,8 @@ def transcribe_audio(post_id):
     asyncio.run(translateAudio(post_id, languages))
 
 # Firestore 
-cred = credentials.Certificate('app/utils/flutter-tiktok-95041-firebase-adminsdk-jbl1g-514a9c1c51.json')
-app = firebase_admin.initialize_app(cred, {'storageBucket': 'flutter-tiktok-95041.appspot.com'})
+cred = credentials.Certificate('app/utils/YOUR_JSON_FILE_NAME.json')
+app = firebase_admin.initialize_app(cred, {'storageBucket': 'YOUR_BUCKET_URL'})
 db = firestore_async.client()
 doc_ref = db.collection("posts")
 bucket = storage.bucket()
