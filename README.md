@@ -50,13 +50,13 @@ Our solution leverages advanced AI to translate video content into the user's pr
    - `cd frontend`
    - `flutter run`
 
-## Working of the system
+## Working of the System
 
 
 ![TickTok Pro (1)](https://github.com/aprajita27/Hackvok-TikTokJam24/assets/34093771/23a1b01e-ffc4-4872-bef3-a9367d27835a)
 
-[![Watch the video on YouTube](http://img.youtube.com/vi/75oD8MJ210E/0.jpg)](http://www.youtube.com/watch?v=75oD8MJ210E)
-[Watch the video on YouTube](https://youtu.be/75oD8MJ210E)
+
+[Watch the demo video on YouTube](https://youtu.be/75oD8MJ210E)
 
 
 
