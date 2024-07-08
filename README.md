@@ -50,6 +50,16 @@ Our solution leverages advanced AI to translate video content into the user's pr
    - `cd frontend`
    - `flutter run`
 
+## Working of the system
+
+
+![TickTok Pro (1)](https://github.com/aprajita27/Hackvok-TikTokJam24/assets/34093771/23a1b01e-ffc4-4872-bef3-a9367d27835a)
+
+[![Watch the video on YouTube](http://img.youtube.com/vi/75oD8MJ210E/0.jpg)](http://www.youtube.com/watch?v=75oD8MJ210E)
+[Watch the video on YouTube](https://youtu.be/75oD8MJ210E)
+
+
+
 ## 📚 Documentation
 For detailed documentation on each component, check out the [Wiki](https://docs.google.com/document/d/1Kra3aAdZKOygQCLC9tNz8IkUq_hFBzAx2dO-9-xhPgc/edit?usp=sharing).
 
@@ -87,6 +97,15 @@ Additionally, we would like to express our gratitude to the developers of the fo
 - **[openai-whisper](https://github.com/openai/whisper)**: Reliable transcription services.
 
 Thank you for your invaluable contributions to the open-source community!
+
+## 📬 Contact & Copyright Concerns
+
+If you have any issues, suggestions, or concerns regarding the use of TikTok videos in this project, please contact the repository owner. If you believe your TikTok video has been used without your permission, please reach out to us, and we will promptly remove it.
+
+### Contact Information
+- **GitHub**: [Aprajita](https://github.com/aprajita27)
+
+Thank you for your understanding and cooperation.
 
 ## Made with ❤️ by
 [<img src="https://github.com/gayatri-p786.png?size=40" width="40">](https://github.com/gayatri-p786)
